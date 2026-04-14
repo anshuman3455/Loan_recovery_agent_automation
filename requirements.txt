@@ -1,0 +1,10 @@
+twilio
+flask
+pandas
+openpyxl
+google-generativeai
+python-dotenv
+pyngrok
+sqlalchemy
+google-genai
+trycloudflare
